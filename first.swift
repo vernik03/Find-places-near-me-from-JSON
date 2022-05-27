@@ -1,3 +1,4 @@
+//place json file and this file in same directory
 import Foundation
 
 struct JSONFile : Decodable{
